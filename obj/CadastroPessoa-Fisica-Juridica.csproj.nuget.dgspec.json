@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mizae\\Documents\\programação\\atividades curso\\fase 2\\CadastroPessoa-Fisica-Juridica\\CadastroPessoa-Fisica-Juridica.csproj": {}
+    "C:\\Users\\mizae\\Desktop\\001\\CadastroPessoa-Fisica-Juridica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mizae\\Documents\\programação\\atividades curso\\fase 2\\CadastroPessoa-Fisica-Juridica\\CadastroPessoa-Fisica-Juridica.csproj": {
+    "C:\\Users\\mizae\\Desktop\\001\\CadastroPessoa-Fisica-Juridica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mizae\\Documents\\programação\\atividades curso\\fase 2\\CadastroPessoa-Fisica-Juridica\\CadastroPessoa-Fisica-Juridica.csproj",
+        "projectUniqueName": "C:\\Users\\mizae\\Desktop\\001\\CadastroPessoa-Fisica-Juridica.csproj",
         "projectName": "CadastroPessoa-Fisica-Juridica",
-        "projectPath": "C:\\Users\\mizae\\Documents\\programação\\atividades curso\\fase 2\\CadastroPessoa-Fisica-Juridica\\CadastroPessoa-Fisica-Juridica.csproj",
+        "projectPath": "C:\\Users\\mizae\\Desktop\\001\\CadastroPessoa-Fisica-Juridica.csproj",
         "packagesPath": "C:\\Users\\mizae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mizae\\Documents\\programação\\atividades curso\\fase 2\\CadastroPessoa-Fisica-Juridica\\obj\\",
+        "outputPath": "C:\\Users\\mizae\\Desktop\\001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mizae\\AppData\\Roaming\\NuGet\\NuGet.Config"

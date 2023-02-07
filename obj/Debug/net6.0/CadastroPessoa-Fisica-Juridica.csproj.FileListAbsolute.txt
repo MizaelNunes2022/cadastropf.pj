@@ -28,3 +28,18 @@ C:\Users\mizae\Documents\programação\atividades curso\fase 2\CadastroPessoa-Fi
 C:\Users\mizae\Documents\programação\atividades curso\fase 2\CadastroPessoa-Fisica-Juridica\obj\Debug\net6.0\CadastroPessoa-Fisica-Juridica.pdb
 C:\Users\mizae\Documents\programação\atividades curso\fase 2\CadastroPessoa-Fisica-Juridica\obj\Debug\net6.0\CadastroPessoa-Fisica-Juridica.genruntimeconfig.cache
 C:\Users\mizae\Documents\programação\atividades curso\fase 2\CadastroPessoa-Fisica-Juridica\obj\Debug\net6.0\ref\CadastroPessoa-Fisica-Juridica.dll
+C:\Users\mizae\Desktop\001\bin\Debug\net6.0\CadastroPessoa-Fisica-Juridica.exe
+C:\Users\mizae\Desktop\001\bin\Debug\net6.0\CadastroPessoa-Fisica-Juridica.deps.json
+C:\Users\mizae\Desktop\001\bin\Debug\net6.0\CadastroPessoa-Fisica-Juridica.runtimeconfig.json
+C:\Users\mizae\Desktop\001\bin\Debug\net6.0\CadastroPessoa-Fisica-Juridica.dll
+C:\Users\mizae\Desktop\001\bin\Debug\net6.0\CadastroPessoa-Fisica-Juridica.pdb
+C:\Users\mizae\Desktop\001\obj\Debug\net6.0\CadastroPessoa-Fisica-Juridica.csproj.AssemblyReference.cache
+C:\Users\mizae\Desktop\001\obj\Debug\net6.0\CadastroPessoa-Fisica-Juridica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mizae\Desktop\001\obj\Debug\net6.0\CadastroPessoa-Fisica-Juridica.AssemblyInfoInputs.cache
+C:\Users\mizae\Desktop\001\obj\Debug\net6.0\CadastroPessoa-Fisica-Juridica.AssemblyInfo.cs
+C:\Users\mizae\Desktop\001\obj\Debug\net6.0\CadastroPessoa-Fisica-Juridica.csproj.CoreCompileInputs.cache
+C:\Users\mizae\Desktop\001\obj\Debug\net6.0\CadastroPessoa-Fisica-Juridica.dll
+C:\Users\mizae\Desktop\001\obj\Debug\net6.0\refint\CadastroPessoa-Fisica-Juridica.dll
+C:\Users\mizae\Desktop\001\obj\Debug\net6.0\CadastroPessoa-Fisica-Juridica.pdb
+C:\Users\mizae\Desktop\001\obj\Debug\net6.0\CadastroPessoa-Fisica-Juridica.genruntimeconfig.cache
+C:\Users\mizae\Desktop\001\obj\Debug\net6.0\ref\CadastroPessoa-Fisica-Juridica.dll
